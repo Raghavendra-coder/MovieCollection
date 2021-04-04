@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    border-color: mediumturquoise;
+}
+body{
+    //background-image: url(https://wallpapercave.com/wp/wp5157365.jpg);
+    background-color: lightgrey;
+}
+h1
+{  
+    background-color: grey;
+    text-align: center;
+    border-radius:40px ;
+    width:1200px;
+    height:40px;
+    margin: 0px 180px;
+    
+}
+.card{
+    margin: 5%;
+    transition: all 0.8s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: linen;
+    border-radius: 20px ;
+    width: 20%;
+    height: 20%;
+    float: left;
+   
+    
+    
+}
+.cards{
+    width: 100%;
+    height: auto;
+
+}
+.card:hover{
+    box-shadow: -10px 10px 10px 10px rgb(61, 61, 61);
+   transform: scale(1.2,1.2) ;
+}
+img{
+    height: 260px;
+    width: 280px;
+    margin-left:10px ;
+    margin-top:10px;
+    border-radius:20px ;
+}
+button{
+    transition: all 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    border-radius: 10px;
+    cursor: link;
+    margin:10px 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    
+}
+button:hover{
+    transform: scale(1.2,1.2);
+    box-shadow: -1px -1px 1px 1px grey;
+    
+}
+span{
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-align: center;
+    color: grey;
+    align-content: center;
+}
+h2
+{
+color: darkslategray;
+
+}
