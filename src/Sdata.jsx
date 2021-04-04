@@ -1,31 +1,31 @@
 const Sdata = [
     {
         imgsrc:"https://wallpapercave.com/wp/wp2722476.jpg",
-        title:"An Amazon Original Movie",
+        title:"Available on AMAZON Prime",
         sname:"Batman Begins",
         link:"https://www.primevideo.com/detail/Batman-Begins/0P9EP6QWO8S60WBB7030KAV4Z7" 
     },
     {
         imgsrc:"https://wallpapercave.com/wp/wp3573513.jpg",
-        title:"An Amazon Original Movie",
+        title:"Available on AMAZON Prime",
         sname:"The Dark Knight",
         link:"https://www.primevideo.com/detail/0QSTXR0EXWWYI4D3UGMLFM4A0Q" 
     },
     {
         imgsrc:"https://wallpapercave.com/wp/e5buLGQ.jpg",
-        title:"An Amazon Original Movie",
+        title:"Available on AMAZON Prime",
         sname:"The Dark Knight Rises",
         link:"https://www.amazon.com/Dark-Knight-Rises-Christian-Bale/dp/B009LRE040"
     },
     {
         imgsrc:"https://wallpapercave.com/wp/wp4069805.jpg",
-        title:"An Amazon Original Movie",
+        title:"Available on AMAZON Prime",
         sname:"Man of Steel",
         link:"https://www.amazon.com/Dark-Knight-Rises-Christian-Bale/dp/B009LRE040" 
     },
     {
         imgsrc:"https://wallpapercave.com/wp/wp4835474.jpg",
-      title:"An Amazon Original Movie",
+      title:"Available on AMAZON Prime",
       sname:"Batman V/S Superman",
       link:"https://www.primevideo.com/detail/0MJBRQ95DKKF19QQLDC9GB7A5X/ref=atv_dp_amz_det_c_Iw3Dma_1_3" 
    
