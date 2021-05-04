@@ -5,7 +5,7 @@ import Sdata from './Sdata';
 
   function App(){
     return ( <> 
-    <h1>Some of the BEST Movies You Should Watch</h1>
+    <h1><marquee behavior="alternate">Some of the BEST Movies You Should Watch</marquee></h1>
      <Cards
      imgsrc={Sdata[0].imgsrc}
      title={Sdata[0].title}
