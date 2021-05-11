@@ -6,7 +6,7 @@ function Cards(prop){
             <div className="cards_info">
                <span className="card_category">{prop.title}</span>
                   <h2 className="card_name">{prop.sname}</h2>
-                     <a href={prop.link} target="_lund">
+                     <a href={prop.link} target="_anything">
                         <button>Watch Now</button>
                      </a>
            </div>
